@@ -1,25 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1919e6&height=180&section=header&text=Joelson+Lopes&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f9ea0&height=180&section=header&text=Joelson+Lopes&fontSize=35&fontColor=005eff&animation=twinkling&fontAlignY=45"/>
 # Welcome to My GitHub Profile
 
 ## About Me
 Hello! My name is Joelson, and I'm a web development enthusiast. I'm currently pursuing a degree in Analysis and Systems Development at Anhanguera College, with an expected graduation in the first semester of 2024. Additionally, I'm focused on enhancing my skills as a Full Stack developer, with an emphasis on JavaScript, React, and Node.js.
 
-## Main Skills:
+### 👨‍💻 Technologies:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+These are some of the technologies and tools that I have experience in my daily life:
 
-### Tools:
+- Front-End
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,materialui,tensorflow)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,sequelize,docker,mongodb,postgres)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,figma,heroku,netlify,kubernetes,ps,pr,powershell)](https://skillicons.dev)
 
 ## Current Learning
 - 📚 Studying JavaScript, React, and Node.js
@@ -33,9 +32,15 @@ Hello! My name is Joelson, and I'm a web development enthusiast. I'm currently p
 - Burger Interface: https://github.com/JoelsonLopes/burgerInterface
 - Focus Timer: https://github.com/JoelsonLopes/focus-timer-2.0
 
-## Contact
-- **LinkedIn:** https://www.linkedin.com/in/joelsonlopes/
-- **Email:** joelsonlopes85@gmail.com
+## 💬 Want to get in touch?
+
+<div>
+  <a href="https://www.linkedin.com/in/joelsonlopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B555194325454&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joelsonlopes85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joelsonlopes85/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/hhBz7M4v" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
 
 ## Contributions
 I'm excited about the idea of collaborating and contributing to the open-source community. If you have an interesting project or any collaboration ideas, please feel free to reach out to me. Let's build amazing things together!
