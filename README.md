@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f9ea0&height=180&section=header&text=Joelson+Lopes&fontSize=35&fontColor=005eff&animation=twinkling&fontAlignY=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=180&section=header&text=Joelson+Lopes&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 # Welcome to My GitHub Profile
 
 ## About Me
@@ -50,4 +50,4 @@ I'm excited about the idea of collaborating and contributing to the open-source 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonlopes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4832d3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=footer"/>
