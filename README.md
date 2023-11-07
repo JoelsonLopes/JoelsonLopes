@@ -18,7 +18,7 @@ These are some of the technologies and tools that I have experience in my daily 
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,figma,heroku,netlify,kubernetes,ps,pr,powershell)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,figma,heroku,netlify,powershell)](https://skillicons.dev)
 
 ## Current Learning
 - 📚 Studying JavaScript, React, and Node.js
