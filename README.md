@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=180&section=header&text=Joelson+Lopes&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9F9F&height=180&section=header&text=Joelson+Lopes&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 # Welcome to My GitHub Profile
 
 ## About Me
