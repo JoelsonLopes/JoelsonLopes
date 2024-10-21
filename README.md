@@ -2,7 +2,7 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-Hello! My name is Joelson, and I'm a web development enthusiast. I'm currently pursuing a degree in Analysis and Systems Development at Anhanguera College, with an expected graduation in the first semester of 2024. Additionally, I'm focused on enhancing my skills as a Full Stack developer, with an emphasis on JavaScript, React, and Node.js.
+Hello! My name is Joelson, and I'm a web development enthusiast. I graduated in Analysis and Systems Development from Anhanguera College in the first semester of 2024. Additionally, I'm focused on enhancing my skills as a Full Stack developer, with an emphasis on JavaScript, React, typescript and Node.js.
 
 ### 👨‍💻 Technologies:
 
