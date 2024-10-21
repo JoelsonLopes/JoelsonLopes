@@ -21,8 +21,8 @@ These are some of the technologies and tools that I have experience in my daily 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,figma,heroku,netlify,powershell)](https://skillicons.dev)
 
 ## Current Learning
-- 📚 Studying JavaScript, React, and Node.js
-- 🎓 Pursuing a degree in Analysis and Systems Development at Anhanguera (Expected Graduation: Mid-2024)
+- 📚 Studying JavaScript, React,typescript and Node.js
+- 🎓 Graduated a degree in Analysis and Systems Development at Anhanguera (Graduation: Mid-2024)
 - 📖 Completed the Fullstack Pro course by DEVCLUB
 - 🚀 Participating in the Explorer and Ignite programs by Rocketseat
 - 💡 Exploring development challenges and solving problems
