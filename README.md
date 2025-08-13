@@ -2,7 +2,9 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-Hello! My name is Joelson, and I'm a web development enthusiast. I graduated in Analysis and Systems Development from Anhanguera College in the first semester of 2024. Additionally, I'm focused on enhancing my skills as a Full Stack developer, with an emphasis on JavaScript, React, typescript and Node.js.
+I'm a full-stack developer passionate about technology and innovation, with a degree in Systems Analysis and Development from Anhanguera College (2024). I focus on the JavaScript ecosystem, working with Next.js, TypeScript, and Node.js to create modern, scalable, and high-performance applications.
+
+I'm always striving to improve my skills and apply best programming practices, such as Clean Code and SOLID principles, to develop efficient and well-structured solutions. My goal is to contribute to projects that make a difference, combining performance, design, and user experience.
 
 ### 👨‍💻 Technologies:
 
