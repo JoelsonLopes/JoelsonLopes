@@ -22,7 +22,7 @@ I'm committed to continuous improvement and applying best programming practices,
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="">
 
 ### Front-End
 [![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,materialui,tensorflow)](https://skillicons.dev)
