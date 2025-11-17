@@ -1,12 +1,11 @@
-```markdown
 <div align="center">
 
 # 👋 Welcome to My GitHub Profile
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/pacman-contribution-graph.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/pacman-contribution-graph-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/pacman-contribution-graph.svg?v=2">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/pacman-contribution-graph.svg?v=2">
 </picture>
 
 </div>
@@ -78,6 +77,12 @@ I'm committed to continuous improvement and applying best programming practices,
 
 ## 🤝 Open Source Contributions
 
-<!-- Removed snake animation to ensure Pac-Man contribution graph shows below the Welcome title -->
+I'm excited about collaborating and contributing to the open-source community. If you have an interesting project or collaboration ideas, feel free to reach out. **Let's build amazing things together!**
 
-```
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/snake.svg?v=2)
+
+</div>
