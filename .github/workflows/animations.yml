@@ -1,14 +1,16 @@
-name: Generate pacman animation
+name: Generate Profile Animations
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
-
   push:
     branches:
-    - main
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -23,16 +25,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate pacman-contribution-graph.svg
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: Generate Pacman SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
