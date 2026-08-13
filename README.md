@@ -57,8 +57,7 @@ I'm committed to continuous improvement and applying best programming practices,
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelsonlopes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Joelson Lopes GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelsonlopes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most used languages" />
+  <img alt="Joelson Lopes GitHub Metrics" src="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/github-metrics.svg" />
 </div>
 
 ---
