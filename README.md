@@ -57,7 +57,7 @@ I'm committed to continuous improvement and applying best programming practices,
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img alt="Joelson Lopes GitHub Metrics" src="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/output/github-metrics.svg" />
+  <img alt="Joelson Lopes GitHub Metrics" src="https://raw.githubusercontent.com/JoelsonLopes/JoelsonLopes/main/dist/github-metrics.svg" />
 </div>
 
 ---
